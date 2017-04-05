@@ -1,1 +1,1 @@
-See: https://dazzagreenwood.github.io/BlockchainBriefingBook
+See: https://mitmedialab.github.io/BlockchainBriefingBook
