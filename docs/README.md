@@ -4,7 +4,7 @@
 
 * See: https://anders.com/blockchain
 
-* [Local Version](blockchain-demo)
+* [Local Demo Version](blockchain-demo)
 
 * [Blockchain Demo Legal Deep Dive]
 
