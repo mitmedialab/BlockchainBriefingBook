@@ -4,6 +4,9 @@ See: https://mitmedialab.github.io/BlockchainBriefingBook
 General Principals for In-House and Other Counsel
 
 
-Legal Issue |  2  |  3  |  4  
+Legal Issue |  Example Situation  |  Leg/Reg Status  | Comments, if any  
 -|-|-|-
-This | That | The | That |
+Does Blockchain Satisfy Long Term Records Retention Requirements | NCUA Requirements | tbd | tbd |
+Does Blockchain Provide Valid Legal Notice | FFF Example | tbd | tbd |
+Are Blockchain Signatures Admissible and Enforceable | tbd | UETA-ESIGN | tbd |
+Does Blockchain Satisfy Long Term Records Retention Requirements | tbd | tbd | tbd |
