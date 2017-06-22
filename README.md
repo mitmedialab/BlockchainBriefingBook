@@ -1,8 +1,5 @@
-See: https://mitmedialab.github.io/BlockchainBriefingBook
-
-
-General Principals for In-House and Other Counsel
-
+* See: https://mitmedialab.github.io/BlockchainBriefingBook & https://computationallaw.org/blockchain-briefing-450aa4fb8d7c  
+* General Principals for In-House and Other Counsel
 
 Legal Issue |  Example Situation  |  Leg/Reg Status  | Comments, if any  
 -|-|-|-
