@@ -4,12 +4,13 @@ According to the [Dr. Micah Altman](http://informatics.mit.edu), the MIT Librari
 
 Relevant Links:
 
-* [The Truth About Blockchain - Harvard Business Review](https://hbr.org/2017/01/the-truth-about-blockchain): 
-"Explore the Archive ... Contracts, transactions, and the records of them are among the defining structures in our economic, legal, and political systems. ... record transactions between two parties efficiently and in a verifiable and permanent way."
+* [The Truth About Blockchain](https://hbr.org/2017/01/the-truth-about-blockchain): By Marco Iansiti and Karim R. Lakhani, published in the Harvard Business Review, JANUARY–FEBRUARY 2017 ISSUE: "Explore the Archive ... Contracts, transactions, and the records of them are among the defining structures in our economic, legal, and political systems. ... record transactions between two parties efficiently and in a verifiable and permanent way."
 
-* [Blockchain: your permanent record of business](https://www.ibm.com/blogs/southeast-europe/blockchain-permanent-record-business) Posted on April 25, 2017 by Peter_Gersak, CTO, IBM South East Europe.
+* [Using Blockchain to Keep Public Data Public](https://hbr.org/2017/03/using-blockchain-to-keep-public-data-public): By Brian Forde,  published at the Harvard Business Review site on March 31, 2017.
 
-* [Blockchain for Recordkeeping](https://www.w3.org/2016/04/blockchain-workshop/slides/Lemieux-Blockchain_for_Recordkeeping.pdf) Presentation by Victoria L. Lemieux, to the W3C Workshop, MIT June 29, 2016 Boston, MA 
+* [Blockchain: your permanent record of business](https://www.ibm.com/blogs/southeast-europe/blockchain-permanent-record-business) Posted by Peter_Gersak, CTO, IBM South East Europe on April 25, 2017
+
+* [Blockchain for Recordkeeping](https://www.w3.org/2016/04/blockchain-workshop/slides/Lemieux-Blockchain_for_Recordkeeping.pdf) Presentation by Victoria L. Lemieux to the W3C Workshop, MIT June 29, 2016 Boston, MA 
 
 
 
