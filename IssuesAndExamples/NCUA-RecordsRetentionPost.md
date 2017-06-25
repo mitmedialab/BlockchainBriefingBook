@@ -1,7 +1,7 @@
 
 The National Credit Union Administration ([NCUA](https://www.ncua.gov)) governs US Federal Credit Unions.  The [NCUA](https://www.ncua.gov) formal guidance for [federally-insured credit unions](https://www.ecfr.gov/cgi-bin/text-idx?SID=21ab23ef124e366686e46d1e1bcef3e9&mc=true&node=se12.7.749_10&rgn=div8), Part [749](https://www.ecfr.gov/cgi-bin/text-idx?SID=21ab23ef124e366686e46d1e1bcef3e9&mc=true&tpl=/ecfrbrowse/Title12/12cfr749_main_02.tpl) of NCUA’s regulations contained in Part 749 of [NCUA's](https://www.ncua.gov) regulations is not terribly prescriptive. In fact, [NCUA](http://nafcucomplianceblog.typepad.com/nafcu_weblog/2016/07/oldie-but-goodie-record-retention-.html) notes first the importance of following applicable state law under [Appendix A](https://www.ecfr.gov/cgi-bin/text-idx?SID=21ab23ef124e366686e46d1e1bcef3e9&mc=true&node=ap12.7.749_15.a&rgn=div9) to Part 749 in determining how long to keep particular records:
 
-> What Are the Recommended Minimum Retention Times?
+> 1. What Are the Recommended Minimum Retention Times?
 
 > Record destruction may impact the credit union's legal standing to collect on loans or defend itself in court. Since each state can impose its own rules, it is prudent for a credit union to consider consulting with local counsel when setting minimum retention periods. A record pertaining to a member's account that is not considered a vital record may be destroyed once it is verified by the supervisory committee. Individual Share and Loan Ledgers should be retained permanently. Records, for a particular period, should not be destroyed until both a comprehensive annual audit by the supervisory committee and a supervisory examination by the NCUA have been made for that period. (Emphasis added.) 
 
