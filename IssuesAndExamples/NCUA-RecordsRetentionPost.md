@@ -1,8 +1,12 @@
-# Blockchains for Data and Record Preservation
+# Summary
+
+**Blockchains for Data and Record Preservation**
 
 The burden of storing data is getting less and less costly.  However, to meet record retention legal requirements it can also be important to prove that the record has not been changed or otherwise tampered with since the time is was stored.  Hash algorithms are capable of proving "message integrity".  Therefore, by storing the hash digests of electronic records on a publicly verifiable, globally accessible blockchain and maintaining a copy of the full records in low cost "off-chain" (traditional) data storage, it is possible, in principle, to provide a long term records archive.  Naturally, adequate  logs and other controls must be maintained about the business and legal records linking the hash digests entered onto a blockchain and the data files in storage to prove provenance.  This combination could save money and reduce other burdens of ensuring long term records and data preservation.  
 
-# US Federal Credit Union Example
+# Example
+
+**US Federal Credit Union Example**
 
 The National Credit Union Administration ([NCUA](https://www.ncua.gov)) governs US Federal Credit Unions.  The [NCUA](https://www.ncua.gov) formal guidance for [federally-insured credit unions](https://www.ecfr.gov/cgi-bin/text-idx?SID=21ab23ef124e366686e46d1e1bcef3e9&mc=true&node=se12.7.749_10&rgn=div8) contained in Part [749](https://www.ecfr.gov/cgi-bin/text-idx?SID=21ab23ef124e366686e46d1e1bcef3e9&mc=true&tpl=/ecfrbrowse/Title12/12cfr749_main_02.tpl) of [NCUA's](https://www.ncua.gov) regulations is not terribly prescriptive. 
 
