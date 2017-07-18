@@ -1,12 +1,11 @@
-**This repository is the content host for:**
 
-## The [Blockchain and Law Landscape Briefing](https://computationallaw.org/blockchain-briefing-450aa4fb8d7c)
+## The [Blockchain and Law Briefing](https://computationallaw.org/blockchain-briefing-450aa4fb8d7c)
 
-> This blog post (occassionally updated on [ComputationalLaw.org](ComputationalLaw.org)) provides an informal and general high level overview of blockchain and law.
+> The [Blockchain and Law Briefing](https://computationallaw.org/blockchain-briefing-450aa4fb8d7c) is a blog post (occassionally updated on [ComputationalLaw.org](ComputationalLaw.org)) providing an informal and general high level overview of blockchain and law.  
+
+Filling out the Blockchain Briefing narrative form, the below table of legal issues and examples is offered as a starting point for in-house and other legal counsel to learn about more general principles and practices related to blockchain technology.
 
 ## Table of Blockchain Legal Issues and Examples
-
-> The table of legal issues and examples, offered as a starting point for in-house and other legal counsel to form more general principles and practices related to blockchain technology.
 
 | Legal Issue |  Example Situation  |  Leg/Reg Status  | Version & Comments   |
 |-|-|-|-|
