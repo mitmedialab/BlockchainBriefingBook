@@ -1,5 +1,75 @@
 For relevant books (or chapters), journal and other articles, blog and other posts and other content accessible under the terms of Creative Commons or other compatible licenses. 
 
+## Evidentiary and Other Legal Implications 
+
+Internet And Email Evidence (Part 1)    
+http://files.ali-cle.org/thumbs/datastorage/lacidoirep/articles/TPL1112_Joseph_thumb.pdf
+
+Is Blockchain Evidence Inadmissible Hearsay? | Law.com
+http://www.law.com/sites/jamesching/2016/01/07/is-blockchain-evidence-inadmissible-hearsay/?slreturn=20170617200219
+
+Proof of Bitcoin payment: Admissible or Hearsay? : Bitcoin
+https://www.reddit.com/r/Bitcoin/comments/47fckp/proof_of_bitcoin_payment_admissible_or_hearsay/?st=j58teg6c&sh=445344a5
+
+Could Blockchain Evidence Be Inadmissible? - Technologist
+http://blogs.findlaw.com/technologist/2016/05/could-blockchain-evidence-be-inadmissible.html
+
+How the BlockNotary App and EULA Work with the Vermont Blockchain Law
+https://decentralize.today/how-the-blocknotary-app-and-eula-work-with-the-vermont-blockchain-law-dc77ef2c83f5
+
+The Enforceability of Smart Contracts - Lexology
+http://www.lexology.com/library/detail.aspx?g=25a03fad-60f4-4e2d-b25e-8e2185d68cee
+
+§ 1913 Blockchain enabling :: 2016 Vermont Statutes :: US Codes and Statutes :: US Law :: Justia
+http://law.justia.com/codes/vermont/2016/title-12/chapter-81/section-1913
+
+Vermont’s New Blockchain Data Authentication Law
+https://cointelegraph.com/press-releases/vermonts-new-blockchain-data-authentication-law
+
+Blockchain in the U.S. Regulatory Setting: Evidentiary Use in Vermont, Delaware, and Elsewhere – Columbia Science and Technology Law Review
+http://stlr.org/2017/05/30/blockchain-in-the-u-s-regulatory-setting-evidentiary-use-in-vermont-delaware-and-elsewhere/
+
+Vermont Laws
+http://legislature.vermont.gov/statutes/section/12/081/01913
+
+How to authenticate text message, screenshot (and other electronic content) as evidence in court - Law Stack Exchange
+https://law.stackexchange.com/questions/14685/how-to-authenticate-text-message-screenshot-and-other-electronic-content-as-e
+
+BlockNotary | K(NO)W Identity Conference K(NO)W Identity Conference
+https://knowidentityconference.oneworldidentity.com/2017/sponsor/blocknotary/
+
+Verifiable Claims Task Force
+https://w3c.github.io/vctf/meetings/2016-05-24/
+
+Recordkeeping
+http://www.notey.com/blogs/recordkeeping
+
+Internet Evidence - Part III: Hearsay Exceptions | The National Law Review
+https://www.natlawreview.com/article/internet-evidence-part-iii-hearsay-exceptions
+
+steptoeblockchainblog.com - Steptoe Blockchain Blog | Steptoe & Johnson LLP
+https://techchek.tips/steptoeblockchainblog.com.html
+
+Judge Dismisses Complaint Because Prosecution Cannot Prove Jurisdiction | Kiberem
+http://kiberem.com/videos/watch?v=0UxGHrzReoA
+
+Schrodinger's Cybersecurity
+http://masonlec.org/site/rte_uploads/files/Bambauer_D_LEC_Draft_12May2014.pdf
+
+Federal Judge Says Internet Archive's Wayback Machine a Legit Source of Evidence | Hacker News
+http://archive.fo/dPW0W
+
+Blockchain data as evidence? – Cryptolawyer.net
+http://cryptolawyer.net/2015/12/blockchain-data-as-evidence/
+
+Is the use of Bitcoin's blockchain as a proof of existence admissible in court? - Quora
+https://www.quora.com/Is-the-use-of-Bitcoins-blockchain-as-a-proof-of-existence-admissible-in-court
+
+7 laws that will have to change because of blockchain | Impact Lab
+http://www.impactlab.net/2017/05/16/7-laws-that-will-have-to-change-because-of-blockchain/
+
+## Legal and Cryptographic Signatures 
+
 [addresses - How to encrypt a message with the public-key of an Ethereum address - Ethereum Stack Exchange](http://ethereum.stackexchange.com/questions/3092/how-to-encrypt-a-message-with-the-public-key-of-an-ethereum-address)
 
 [mist - how to sign with the Ethereum private key and derive the the r, v, s it needs for verification - Ethereum Stack Exchange](http://ethereum.stackexchange.com/questions/3792/how-to-sign-with-the-ethereum-private-key-and-derive-the-the-r-v-s-it-needs-fo?noredirect=1&lq=1)
