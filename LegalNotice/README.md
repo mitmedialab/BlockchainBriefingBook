@@ -4,7 +4,7 @@ For blockchain briefing book materials related to Legal Notice.
 
 some types of legal notices:
 
-## Adoption Guardianship    
+## Legal Notices for Adoption & Guardianship   
 
  * Adoption of Plan    
  * Adoption Plan    
@@ -17,14 +17,12 @@ some types of legal notices:
  * Appointment 
  * Appointment Notice    
 
- ## Bids & Proposals    
-
- * Bids    
- * Bids and Proposals    
- * bids proposals    
+ ## Legal Notices for Bids & Proposals    
+ 
+ * Bids and Proposals for Public Contracts   
  * Bond Redemption    
 
- ## More Judicial Notices     
+ ## Misc Judicial Notices     
 
  * Class Action    
  * Contract Notice    
@@ -36,10 +34,11 @@ some types of legal notices:
  * Divorce    
  * DUI    
 
+## Misc Municipal Notices
+
  * Education    
  * Election    
  * Election Notice    
- * expenditure    
  * Expenditure Notice    
  * Fictitious Names    
  * Foreclosures    
@@ -93,7 +92,7 @@ some types of legal notices:
  * Partnerships    
  * Planning Commission    
 
- ## Probate    
+ ## Probate Notices
 
  * Probate Action    
  * Public Comment    
@@ -111,7 +110,7 @@ some types of legal notices:
  * Seizure Notice    
  * Sex Offenders    
 
- ## Sheriff’s     
+ ## Sheriff’s Notices
 
  * LevySummons    
  * Tax Sale    
