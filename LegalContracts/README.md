@@ -1,6 +1,6 @@
 For blockchain briefing book materials related to Legal Contracts.
 
-## Regarding Smart Contracts
+##  Smart Contracts and Legal Contracts In General
 
 **SMART AFTER ALL: BLOCKCHAIN, SMART CONTRACTS, PARAMETRIC INSURANCE, AND SMART ENERGY GRIDS**; Alan Cohn, Travis West, & Chelsea Parker 
 * CITE AS: 1 GEO. L. TECH. REV. 273 (2017)
@@ -28,4 +28,16 @@ For blockchain briefing book materials related to Legal Contracts.
 > "...Smart contracts may pose particular evidentiary issues given that the contract is written in computer code. This code would need to be produced in natural language for a court to review as part of a dispute, since it is unlikely that courts would possess the requisite expertise to review the code directly. This problem could be handled prospectively by developing and maintaining an isolated version of the code translated into natural language when the smart contract goes into effect, which could be updated as changes to it are made. This should not be burdensome to developers of this technology in that they will need to provide a natural language version of the contract to the parties to obtain mutual consent. Furthermore, additional expertise and specialization in smart contract technology would be needed to validate the smart contract in any litigation, including verifying that the security protocols are sufficient to maintain the code in its agreed upon state."
 
 > "...The Supreme Court’s First Amendment jurisprudence provides a useful model; n that realm, the Court has erred on the side of respecting autonomy and policing ex post. In this instance, contractware ought not be analyzed in toto, but discrete devices and software applications should be evaluated. This evaluation should be based upon the rights implications, as opposed to the particular functions of the contractware device. So, while devices that prevent the usage of personal property could be allowed, implants that enforce unconstitutional contracts or contracts that are unconscionable or void against public policy would not be permitted.  These are questions for judges to decide on a case-by-case basis. Common law principles ought to form the background of such analysis."
+
+## Monax Dual Integration Approach
+
+The Monax approach to Dual Integration of smart and legal contracts is a good practice example.  Below is an except from the [Monax explainer](https://monax.io/explainers/dual_integration/) (cached [here](https://github.com/mitmedialab/BlockchainBriefingBook/blob/master/LegalContracts/Monax%20_%20Explainer%20_%20Dual%20Integration.pdf))
+
+> **"Putting the Contracts in Smart Contracts**
+> Smart contracts are useful for automating many data-driven relationships. However, to be enforceable, smart contracts must work in existing legal frameworks where those frameworks already exist, removing a degree of uncertainty in enforcement. In order to bridge the gap between existing electronic contracts law and blockchain smart contracts, Monax offers dual integration. For more on smart contracts, see our explainer.
+
+> Dual integration is the process of integrating a specific legal contract into a specific smart contract running on a distributed data store, such as Monax. This allows parties to use established dispute resolution processes in the jurisdiction(s) of choice while also using a smart contract as the primary mechanism for administering the data-driven interaction that attends to the agreement between the parties.
+
+> **Dual integration enables legal enforceability of smart contracts**
+> The rationale behind dual integration is that for the forseeable future, legal systems are unlikely to resolve disputes stemming from smart contracts solely on the basis of their code. Courts will apply the defaults for similar prose agreements, an end that may not reflect the intention of the smart contracting parties. Because of the risks involved in enforcing smart contracts by code alone, we highly encourage all smart contract systems developers to utilize dual integration of some kind. Dual integration means that a smart contract will be linked to a document that can be enforced by a court.
 
