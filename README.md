@@ -1,7 +1,7 @@
 
 ## The [Blockchain and Law Briefing](https://computationallaw.org/blockchain-briefing-450aa4fb8d7c)
 
-> The [Blockchain and Law Briefing](https://computationallaw.org/blockchain-briefing-450aa4fb8d7c) is a blog post (occassionally updated on [ComputationalLaw.org](ComputationalLaw.org)) providing an informal and general high level overview of blockchain and law.  
+> The [Blockchain and Law Briefing](https://computationallaw.org/blockchain-briefing-450aa4fb8d7c) is a [blog post](https://github.com/mitmedialab/BlockchainBriefingBook/edit/master/README.md) (occassionally updated on [ComputationalLaw.org](ComputationalLaw.org)) providing an informal and general high level overview of blockchain and law.  
 
 Filling out the Blockchain Briefing narrative form, the below table of legal issues and examples is offered as a starting point for in-house and other legal counsel to learn about more general principles and practices related to blockchain technology.
 
